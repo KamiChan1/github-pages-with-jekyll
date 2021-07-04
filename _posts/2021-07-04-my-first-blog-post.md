@@ -1,1 +1,4 @@
-Hi, This is my first post just for testing stuff
+---
+title: "This is my first blog post"
+date: 2021-07-04
+---
